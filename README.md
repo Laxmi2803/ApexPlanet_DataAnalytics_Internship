@@ -1,58 +1,71 @@
-# Task 3: Interactive Dashboard Development
+# ApexPlanet Data Analytics Internship
 
-## Objective
-Develop an interactive Power BI dashboard to visualize Superstore sales data and generate business insights.
+## Overview
+This repository contains all the tasks completed during the ApexPlanet 30-Day Data Analytics Internship.
+
+## Task 1 - Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Missing Value Handling
+- Duplicate Removal
+- Data Visualization
+- Summary Statistics
+
+## Task 2 - SQL Analysis
+- Database Creation using SQLite
+- SQL Queries
+- Joins
+- Aggregate Functions
+- Group By
+- Order By
+
+## Task 3 - Power BI Dashboard
+- Interactive Dashboard
+- KPI Cards
+- Sales Analysis
+- Profit Analysis
+- Regional Performance
+- Category Analysis
+
+## Task 4 - Advanced Analytics
+
+### Statistical Analysis
+- Mean
+- Median
+- Mode
+- Standard Deviation
+- Skewness
+- Hypothesis Testing
+
+### Time Series Analysis
+- Monthly Sales Trend
+- Moving Average
+
+### Customer Segmentation
+- StandardScaler
+- K-Means Clustering
+- Elbow Method
+- Cluster Visualization
+
+### Predictive Analytics
+- Linear Regression
+- Model Evaluation
+- MAE
+- RMSE
+- R² Score
+- Feature Importance
 
 ## Tools Used
-- Power BI Desktop
-- CSV Dataset (Cleaned Superstore)
-- DAX
-- Git & GitHub
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- SQLite
+- Power BI
+- VS Code
 
-## Dashboard Features
-- KPI Cards
-  - Total Sales
-  - Total Profit
-  - Total Orders
-  - Average Discount
+## Dataset
+Sample Superstore Dataset
 
-- Sales by Category (Bar Chart)
-- Sales by Segment (Donut Chart)
-- Monthly Sales Trend (Line Chart)
-- Profit by Region (Column Chart)
-- Top Customers Table
-- Interactive Slicers
-  - Region
-  - Category
-  - Segment
-  - Ship Mode
-
-## Business Insights
-- Technology and Office Supplies contribute significantly to sales.
-- Consumer segment generates the highest revenue.
-- Sales trends vary across months.
-- Regional profit differs across locations.
-- Interactive slicers help analyze data dynamically.
-
-## Project Structure
-
-```
-ApexPlanet_DataAnalytics_Internship/
-│
-├── dashboards/
-│   └── dashboardLaxmi.pbix
-│
-├── reports/
-│   ├── Superstore_Dashboard.pdf
-│   └── dashboard.png
-│
-├── data/
-├── database/
-├── notebooks/
-├── sql/
-└── README.md
-```
-
-## Outcome
-
-Successfully designed an interactive dashboard using Power BI to analyze business performance and support data-driven decision making.
+## Internship
+ApexPlanet Software Pvt. Ltd.
