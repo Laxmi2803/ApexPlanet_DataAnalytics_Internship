@@ -1,71 +1,99 @@
 # ApexPlanet Data Analytics Internship
 
-## Overview
-This repository contains all the tasks completed during the ApexPlanet 30-Day Data Analytics Internship.
+## Student Details
 
-## Task 1 - Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Missing Value Handling
-- Duplicate Removal
-- Data Visualization
-- Summary Statistics
+**Name:** Bandari Laxmi
 
-## Task 2 - SQL Analysis
-- Database Creation using SQLite
-- SQL Queries
-- Joins
-- Aggregate Functions
-- Group By
-- Order By
+**Branch:** B.Tech Information Technology
 
-## Task 3 - Power BI Dashboard
-- Interactive Dashboard
-- KPI Cards
-- Sales Analysis
-- Profit Analysis
-- Regional Performance
-- Category Analysis
+**Internship:** ApexPlanet Data Analytics Internship
 
-## Task 4 - Advanced Analytics
+---
 
-### Statistical Analysis
-- Mean
-- Median
-- Mode
-- Standard Deviation
-- Skewness
-- Hypothesis Testing
+# Project Overview
 
-### Time Series Analysis
-- Monthly Sales Trend
-- Moving Average
+This project demonstrates the complete Data Analytics workflow using the Sample Superstore dataset. It includes data cleaning, exploratory data analysis, SQL queries, dashboard creation in Power BI, statistical analysis, customer segmentation, predictive modeling, and automation.
 
-### Customer Segmentation
-- StandardScaler
-- K-Means Clustering
-- Elbow Method
-- Cluster Visualization
+---
 
-### Predictive Analytics
-- Linear Regression
-- Model Evaluation
-- MAE
-- RMSE
-- R² Score
-- Feature Importance
+# Tools Used
 
-## Tools Used
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Scikit-learn
-- SQLite
+- SQL (SQLite)
+- SQLAlchemy
 - Power BI
-- VS Code
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
+- Jupyter Notebook
+- Git
+- GitHub
 
-## Dataset
-Sample Superstore Dataset
+---
 
-## Internship
-ApexPlanet Software Pvt. Ltd.
+# Tasks Completed
+
+## Task 1
+- Data Cleaning
+- Exploratory Data Analysis
+
+## Task 2
+- SQL Queries
+- Business Analysis
+
+## Task 3
+- Interactive Power BI Dashboard
+
+## Task 4
+- Statistical Analysis
+- Customer Segmentation
+- Predictive Modeling
+
+## Task 5
+- Final Report
+- Automation Script
+- KPI Report
+
+---
+
+# Folder Structure
+
+```text
+data/
+database/
+dashboards/
+notebooks/
+reports/
+scripts/
+sql/
+README.md
+requirements.txt
+```
+
+---
+
+# Automation
+
+Run:
+
+```bash
+python scripts/automation.py
+```
+
+---
+
+# Outputs
+
+- Cleaned Dataset
+- KPI Report
+- Final Report
+- Power BI Dashboard
+
+---
+
+# Author
+
+Bandari Laxmi
